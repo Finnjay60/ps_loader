@@ -2,7 +2,7 @@
 -- CONFIGURATION: Set your URLs / settings here
 -----------------------------------------------------------
 local CONSTANS = {
-    AUTH_URL = "https://raw.githubusercontent.com/Finnjay60/ps_loader/refs/heads/main/auth.json?token=GHSAT0AAAAAADKM3CH2DH5SCWLHV4VM2QBQ2GWXW4Q", -- RAW URL zu auth.json
+    AUTH_URL = "https://raw.githubusercontent.com/Finnjay60/ps_loader/refs/heads/main/auth.json", -- RAW URL zu auth.json
     UPDATE_URL = "https://raw.githubusercontent.com/Finnjay60/ps_loader/refs/heads/main/loader.lua", -- RAW URL zu loader.lua
     DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1405664022128361582/Qkx-N6hHThtrQST5la6WScEul2HTQzOL8Dwch7pj5ieFSdoEdSvRDZy9w0XTvjlh7JAj", -- Discord webhook
     REQUIRED_AUTH_VERSION = "1.0.0", -- Erwartete auth.json Version
